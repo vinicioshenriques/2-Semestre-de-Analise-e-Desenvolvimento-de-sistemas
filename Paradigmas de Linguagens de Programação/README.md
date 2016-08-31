@@ -1,0 +1,1 @@
+# Repositorio de Paradigmas de linguagens de Programação.

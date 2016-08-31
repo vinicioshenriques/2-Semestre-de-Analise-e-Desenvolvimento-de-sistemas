@@ -1,0 +1,1 @@
+# Exercicios da aula Semi Presencial
